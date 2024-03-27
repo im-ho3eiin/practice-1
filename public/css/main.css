@@ -1,0 +1,11 @@
+div {
+  background-image: linear-gradient(to right, gray, black);
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  inset: 0;
+  margin: auto auto;
+  h1 {
+    color: whitesmoke;
+  }
+}
